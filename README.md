@@ -4,7 +4,7 @@
 
 
 代码如下：
-```javascripts
+```java
 // ==UserScript==
 // @name         Bilibili 批量取关 (适配新版UI)
 // @namespace    http://tampermonkey.net/
